@@ -1,4 +1,4 @@
-# DevOpsTechHub 🚀
+# DevOps TechHub 🚀
 
 Welcome, Tech Enthusiasts! 👋 I'm your go-to DevOps Guy with expertise in building and deploying solutions with DevOps practices. 🛠️
 
