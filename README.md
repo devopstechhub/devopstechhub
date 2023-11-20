@@ -1,6 +1,7 @@
 # DevOps TechHub 🚀
 
-Welcome, Tech Enthusiasts! 👋 I'm your go-to DevOps Guy with expertise in building and deploying solutions with DevOps practices. 🛠️
+Welcome, Tech Enthusiasts! 👋 I'm your go-to DevOps Guy with expertise in building and deploying solutions with DevOps practices. 🛠️ <img align="right" src="https://dt-cdn.net/images/devops-ebook-getting-to-know-cf7a31afcd.svg" width="200" height="150">
+
 
 ## About Me
 
